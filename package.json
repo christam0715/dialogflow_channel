@@ -1,0 +1,30 @@
+{
+  "name": "fbadapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "dialogflow": "^1.0.0",
+    "express": "^4.17.1",
+    "messaging-api-messenger": "^0.8.2",
+    "messaging-api-wechat": "^0.8.4",
+    "msnodesqlv8": "^0.8.6",
+    "mssql": "^6.0.1",
+    "node-wechat": "^0.3.0",
+    "request": "^2.88.0",
+    "save": "^2.4.0",
+    "twilio": "^3.38.0",
+    "uuid": "^3.3.3",
+    "wechat": "^2.1.0",
+    "wechat-api": "^1.35.1",
+    "ws": "^7.2.0"
+  }
+}
